@@ -159,7 +159,5 @@ Este proyecto está disponible bajo licencia abierta. Úsalo, modifica y compart
 
 ---
 
-**Versión:** 3.0  
 **Última actualización:** Junio 2026  
-**Autor:** Generado con asistencia de IA  
 **Soporte:** Para errores o sugerencias, abre un issue en este repositorio.
